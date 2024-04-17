@@ -1,0 +1,10 @@
+@import '../../../_variables';
+.btn {
+	background-color: $dark-blue;
+	color: $white;
+	border: none;
+	outline: none;
+	border-radius: 10px;
+	padding: 10px;
+	cursor: pointer;
+}
